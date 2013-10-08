@@ -43,5 +43,5 @@ end
 
 gem "neo4j", ">= 2.2.3"
 gem 'neo4j-community', "1.9.2"
-gem 'neo4j-advanced'
-gem 'neo4j-enterprise'
+gem 'neo4j-advanced', "1.9.2"
+gem 'neo4j-enterprise', "1.9.2"
